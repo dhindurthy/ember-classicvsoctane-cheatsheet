@@ -1,3 +1,4 @@
+## Ember Classic VS Octane
 |   | Classic | Glimmer |
 | --- | --- | --- |
 | Lifecycle hooks | 13 | 2 lifecycle hooks <code>constructor willDestroy</code> <br/>Modifiers are the answer|
